@@ -1,7 +1,7 @@
 {
     "jobs": [
-      { "title": "Ninja UX Designer", "id": 1, "details": "plan, create and code internet sites and web pages, many of which combine text with sounds, pictures, graphics" },
-      { "title": "Ninja Web Developer", "id": 2, "details": "create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity" },
-      { "title": "Ninja Vue Developer", "id": 3, "details": "javascript developer" }
+      { "title": "Ondiek UX Designer", "id": 1, "details": "plan, create and code internet sites and web pages, many of which combine text with sounds, pictures, graphics" },
+      { "title": "Ondiek Web Developer", "id": 2, "details": "create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity" },
+      { "title": "Ondiek Vue Developer", "id": 3, "details": "javascript developer" }
     ]
   }
